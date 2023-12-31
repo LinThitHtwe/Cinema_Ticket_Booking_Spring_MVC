@@ -1,1 +1,1 @@
-### A team project in Spring MVC that I undertook as a beginner at the beginning of 2023.
+### A beginner's team project in Spring MVC that I worked on at the start of 2023.
